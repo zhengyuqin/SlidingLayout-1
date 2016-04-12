@@ -3,7 +3,7 @@ SlidingLayout support ListView GridView (ScrollView need yourself..., so easy)
 
 this project was born in letv video android app http://www.letv.com/
 
-![Renderings](https://github.com/songhanghang/SlidingLayout/blob/master/screenshot/A0001LRX22Gsonghang12062015142854.gif)
+![Renderings](https://github.com/JHoo1988/SlidingLayout/blob/master/screenshot/A0001LRX22Gsonghang12062015142854.gif)
 
 # usage
 * set SlidingLayouut in your xml 
